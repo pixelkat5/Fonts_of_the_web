@@ -1,5 +1,9 @@
-# Currently many JRPG's use fonts from a company called "Fontworks". This companies plans were around 350$ per year. On September 6, 2023, The company "Monotype" acquired the company. The pricing for a team of devs/graphic designers went from ~$380/year to $20,500/year after the acquisition.
-# I WANT TO BREAK DOWN THE WALLS THAT RESTRAIN SMALL STUDIOS AND GRAPHIC DESIGNERS ! ! !
+> [!IMPORTANT]  
+> Currently many JRPG's use fonts from a company called "Fontworks". This companies plans were around 350$ per year. On September 6, 2023, The company "Monotype" acquired the company. The pricing for a team of devs/graphic designers went from ~$380/year to $20,500/year after the acquisition. 
+> 
+> I WANT TO BREAK DOWN THE WALLS THAT RESTRAIN SMALL STUDIOS AND GRAPHIC DESIGNERS ! ! !
+
+<br><br>
 
 |           ***ATLUS C, Source unknown***         |       ***MyFonts (Monotype c)***                |                  ***Notes***     |
 |:---------------------:|:---------------------:|:---------------------:|
